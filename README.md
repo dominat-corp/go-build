@@ -1,2 +1,2 @@
 # go-build
-Golang build container for Docekr!
+Golang build container for Docker!
